@@ -1,13 +1,15 @@
 ClassMngt::Application.routes.draw do
   resources :students
 
-  get 'courses/new', to: 'courses#new'
+  # get 'courses/new', to: 'courses#new'
+  # 
+  # get 'courses', to: 'courses#create', as: 'create'
+  # 
+  # post "courses", to: "courses#create"
   
-  post "courses", to: "courses#create"
+  resources :courses
   
-  resources :students
-  
-  get 'happy', to: 'students#index'
+  #get 'happy', to: 'students#index'
 
   get 'welcome/:test', to: 'welcome#hello'
 

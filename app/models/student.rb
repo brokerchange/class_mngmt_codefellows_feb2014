@@ -3,6 +3,10 @@ class Student < ActiveRecord::Base
   #has_many :courses
   has_many :registrations
   has_many :courses, through: :registrations
+  
+  #validates :full_name, presence: true #alternative way to write it
+  validates_presence_of :full_name
+  validates_presence_of :email
 
   scope :renees, -> do
     where(full_name: 'Renee')
