@@ -1,0 +1,23 @@
+#, name, email, irc nick-name, github, twitter
+1,  Renée Hendricksen, renee@nird.us, reneedv, reneedv, @nirdllc
+2,  Tom, tom@tom.com, tomT, tomT, @tomT
+3,
+4,  Brian Kulp, brianpkulp@gmail.com, , briankulp, @briankulp
+5,  Paul Laskowski, pelaskowski@gmail.com, warmbowski, warmbowski, warmbowski
+6, 
+7,  Kevin Staiger, kstag07@yahoo.com, kstag07
+8,  Tom Petrie, tgpetrie@gmail.com, tgpetrie
+9,  Deirdre Allison, deirdre9@gmail.com, Deirdre?, Deirdreallison, @deirdre_9
+10, Stacia, , stacia, stacia,
+11, Ayman Al-Abdullah, brokerchange, brokerchange, @brokerchange
+12, Karen Sit, karenwsit@gmail.com, KarenS, karenwsit, @sitkaren
+13, Danielle Lee, mdlee724@gmail.com,hero724
+14, Abe Stephenson, stephenson@asguardnetworks.com, abe, AbeTown, none:(
+15, Rod Sorensen, rodsorensen@hotmail.com, rodjs, rodsorensen, @RodRail,
+16, Michelle Gutierrez, mgnorman
+17, Aimee Lacariere, spampiston@gmail.com, modzirra, modzirra, @piston42
+18, Eric Choi, ericjiwonchoi@gmail.com, ejc226, ejc226, @ericjiwonchoi
+19, Erik Nilsen, enilsen16@live.com, enilsen16, @ErikNilsen16
+20, Marco Lindsay, lindsay_marco@hotmail.com, marclo, marco-lindsay, none
+21,
+22,
