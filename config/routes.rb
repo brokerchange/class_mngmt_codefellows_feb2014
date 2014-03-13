@@ -1,4 +1,5 @@
 ClassMngt::Application.routes.draw do
+  devise_for :students
   resources :students
 
   # get 'courses/new', to: 'courses#new'

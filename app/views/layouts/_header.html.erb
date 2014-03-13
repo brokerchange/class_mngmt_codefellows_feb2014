@@ -1,4 +1,15 @@
-<%= Time.now %>
-<h1> Hi I'm a header</h1>
+  <% if student_signed_in? %>
+        You are logged in as: <%= current_student.email %>
+      <%= else %>
+ 
+ <% if current_student %>
+        <li><%= link_to "Log out", destroy_student_session_path, method: :delete %></li>
+      <%= else %>
+      
+      <% end %>
+      
+      
 Notice: <%= notice %>
 Alert: <%= alert %>
+
+     
